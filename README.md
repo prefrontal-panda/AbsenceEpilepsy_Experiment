@@ -10,6 +10,8 @@ This project involves two main analysis;
 For this experiment, the Genetic Absence Epilepsy Rats from Strasbourg (GAERS) and their Non-Epileptic Control (NEC) counterparts are included.
 
 Time points include:
-  (i) 3 weeks - before seizure development,
-  (ii) 7 weeks - when seizures have just begun to develop, and
-  (iii) 16 weeks - when seizures have fully developed
+(i) 3 weeks - before seizure development,
+(ii) 7 weeks - when seizures have just begun to develop, and
+(iii) 16 weeks - when seizures have fully developed
+
+At the terminal endpoints of each time point, the somatosensory cortex (Scx) and thalamus were collected and profiled.
